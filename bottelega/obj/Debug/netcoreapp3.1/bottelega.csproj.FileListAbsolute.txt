@@ -1,0 +1,16 @@
+C:\Users\maloY\Desktop\bottegelf\bottelega\bin\Debug\netcoreapp3.1\bottelega.exe
+C:\Users\maloY\Desktop\bottegelf\bottelega\obj\Debug\netcoreapp3.1\bottelega.csprojAssemblyReference.cache
+C:\Users\maloY\Desktop\bottegelf\bottelega\obj\Debug\netcoreapp3.1\bottelega.AssemblyInfoInputs.cache
+C:\Users\maloY\Desktop\bottegelf\bottelega\obj\Debug\netcoreapp3.1\bottelega.AssemblyInfo.cs
+C:\Users\maloY\Desktop\bottegelf\bottelega\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\maloY\Desktop\bottegelf\bottelega\obj\Debug\netcoreapp3.1\bottelega.csproj.CopyComplete
+C:\Users\maloY\Desktop\bottegelf\bottelega\obj\Debug\netcoreapp3.1\bottelega.csproj.CoreCompileInputs.cache
+C:\Users\maloY\Desktop\bottegelf\bottelega\bin\Debug\netcoreapp3.1\bottelega.deps.json
+C:\Users\maloY\Desktop\bottegelf\bottelega\bin\Debug\netcoreapp3.1\bottelega.runtimeconfig.json
+C:\Users\maloY\Desktop\bottegelf\bottelega\bin\Debug\netcoreapp3.1\bottelega.runtimeconfig.dev.json
+C:\Users\maloY\Desktop\bottegelf\bottelega\bin\Debug\netcoreapp3.1\bottelega.dll
+C:\Users\maloY\Desktop\bottegelf\bottelega\bin\Debug\netcoreapp3.1\bottelega.pdb
+C:\Users\maloY\Desktop\bottegelf\bottelega\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\maloY\Desktop\bottegelf\bottelega\obj\Debug\netcoreapp3.1\bottelega.dll
+C:\Users\maloY\Desktop\bottegelf\bottelega\obj\Debug\netcoreapp3.1\bottelega.pdb
+C:\Users\maloY\Desktop\bottegelf\bottelega\obj\Debug\netcoreapp3.1\bottelega.genruntimeconfig.cache
